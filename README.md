@@ -1,7 +1,17 @@
+---
+typora-root-url: doc
+---
+
 # GitHubtest
 测试github
 
 
+![](/test.png)  
 
-![GitHub Logo](./doc/test.png "test.png")  
+
+![](/../12.png)
+
+
+
+
 
